@@ -1,0 +1,92 @@
+.logo{
+    padding: 10px;
+}
+.whitecolor{
+    background-color: white;
+}
+.icon-bar {
+    width: 100%;
+    background-color: rgb(255, 250, 250);
+    overflow: auto;
+  }
+  
+  .icon-bar a {
+    float: left;
+    width: 17%;
+    text-align: center;
+    padding: 0 10px;
+    transition: all 0.3s ease;
+    color: rgb(8, 8, 8);
+    font-size: 36px;
+  }
+  
+  .icon-bar a:hover {
+    background-color:#F2F2F2;
+  }
+  
+  .active {
+    background-color: #ffffff;
+  }
+  .profile1{
+    border-radius: 50%;
+   padding: 5px;
+  }
+  .form-control{
+    border-radius: 40px;
+    background-color: rgb(216, 208, 208);
+  }
+  .cover{
+width: 75%;
+max-height: 600px;
+box-shadow: 10px 10px 100px white;
+border-radius: 5px;
+  }
+.profile
+{
+
+    height: 230px;
+    width: 250px;
+    border-radius: 50%;
+    border: 5px solid rgb(4, 139, 250);
+}
+  .name{
+    font-weight: 800;
+    font-family: 'poppins' 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  .bio{
+    font-size: 32px;
+    font-family: 'poppins';
+    font-weight: 700;
+  }
+  .btn-link-1{
+    color: white;
+    font-size: 15px;
+    font-weight: 700;
+    background-color: #1A6ED8;
+   
+    padding: 15px 20px;
+    border: none;
+    border-radius: 5px;
+  }
+  .btn-link-1:hover{
+    background-color:#5b94da;
+  }
+  .btn-link-2{
+    color: black;
+    font-size: 15px;
+    font-weight: 700;
+    background-color: rgb(221, 206, 206);
+   
+    padding: 15px 20px;
+    border: none;
+    border-radius: 5px;
+  }
+  .container{
+    padding-top: 25px;
+  }
+  .link-list{
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 700;
+    padding: 0 10px;
+  }
